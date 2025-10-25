@@ -1,4 +1,4 @@
 # spotify-clone
 Making Spotify web player clone
-
-# No js 
+without functionality of Spotify.
+this is just to show my html and CSS skill
