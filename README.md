@@ -21,7 +21,7 @@ This is a personal learning project created to practice and demonstrate HTML and
 ## 🖼️ Screenshots
 
 ### Desktop View
-![Desktop View](screenshots/desktop.png)
+![Desktop View](https://github.com/Princekr267/spotify-clone/blob/main/screenshot/desktop.png?raw=true)
 
 ## 🚀 Getting Started
 
