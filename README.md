@@ -2,7 +2,7 @@
 
 A static clone of Spotify's web player interface built using only HTML and CSS. This project replicates the look and feel of Spotify's user interface without any JavaScript functionality.
 
-![Spotify Clone Screenshot]("C:\Users\princ\OneDrive\Documents\Program doc\Screenshots of projects\Screenshot 2025-11-17 204620.png")
+![Spotify Clone Screenshot](C:\Users\princ\OneDrive\Documents\Program doc\Screenshots of projects\Screenshot 2025-11-17 204620.png)
 
 ## 📋 About The Project
 
